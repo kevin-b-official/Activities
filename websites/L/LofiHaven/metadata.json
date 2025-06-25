@@ -1,22 +1,25 @@
 {
   "$schema": "https://schemas.premid.app/metadata/1.14",
   "apiVersion": 2,
-  "service": "LofiHaven",
-  "description": {
-    "en": "Your cozy digital hideaway for focus, study, and relaxation."
-  },
   "author": {
     "name": "horizov",
     "id": "877848431983493132"
   },
-  "version": "1.0.0",
-  "logo": "https://cynmqjmtk2ojy1db.public.blob.vercel-storage.com/lofihavenlogo-dmD8TJXSNPzSO4oFEXQaLgsFpCEjNc.png",
-  "thumbnail": "https://cynmqjmtk2ojy1db.public.blob.vercel-storage.com/lofihavenlogo-dmD8TJXSNPzSO4oFEXQaLgsFpCEjNc.png",
+  "service": "LofiHaven",
+
+  "description": {
+    "en": "Your cozy digital hideaway for focus, study, and relaxation."
+  },
+
   "url": "lofihaven.horizov.site",
+  "version": "1.0.0",
+  "logo": "https://cynmqjmtk2ojy1db.public.blob.vercel-storage.com/lofihaven_logo_512x512-pwsoTs1SLgmnBZN0E3iaRcozmXgWFn.png",
+  "thumbnail": "https://cynmqjmtk2ojy1db.public.blob.vercel-storage.com/lofihaven_logo_512x512-pwsoTs1SLgmnBZN0E3iaRcozmXgWFn.png",
   "color": "#A855F7",
   "category": "other",
   "tags": [
-    "lofihaven",
+    "lofi",
+    "music",
     "chill",
     "vibe",
     "study",
