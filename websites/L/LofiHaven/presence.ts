@@ -44,7 +44,7 @@ window.addEventListener('message', (event) => {
     largeImageText: 'LofiHaven',
     startTimestamp: data.start_timestamp || undefined,
     buttons: [
-      { label: 'Visit LofiHaven', url: 'https://lofihaven.horizov.site' },
+      { label: 'Visit LofiHaven', url: 'https://lofihaven.xyz' },
       { label: 'Join the Community', url: 'https://discord.gg/EK7n8SsPVH' },
     ],
   }
